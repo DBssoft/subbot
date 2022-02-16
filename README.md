@@ -1,5 +1,5 @@
 # Subbot
-Subbot is an open source discord bot that I add anything I can make too.
+Subbot is just a next random all in one open source bot.
 
 ( This bot does not have a public copy to it so you need to fork it to test it out )
 
