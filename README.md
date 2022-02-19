@@ -8,22 +8,42 @@ Subbot is just a next random all in one open source bot.
 
 # Table of Contents
 <details>
-
+   <summary>Table</summary>
+   <br>
+   
 - [Information](#subbot)
 - [Table of Contents](#table-of-contents)
 - [has](#has)
   
 </details>
 
-# Has
+# APis Ysed
 <details>
-  
+   <summary>All APis</summary>
+   <br>
+   
+   Here is the names and links to the APis this bot uses
+   
+   </details>
+
+# Systems
+<details>
+   <summary>Adding/Has</summary>
+   <br>
+   
 - [ ] Leveling System
 - [ ] Invite tracking
 - [ ] Staff System
+- [ ] MiniGames
+- [ ] Giveaway
 - [ ] Logging
+- [ ] Music
+- [ ] NSFW
   
   </details>
+  
+  # Credits
+  
   
   # Run
   [![Run on Repl.it](https://replit.com/badge/github/NotInf1n1ty/All-in-One-or-subbot)](https://repl.it/github/DBssoft/subbot) 
